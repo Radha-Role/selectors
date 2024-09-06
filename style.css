@@ -1,0 +1,30 @@
+/* * {
+    font-family: Courier;
+}
+*/
+
+body {
+    font-size: 25px;
+}
+p:hover{
+    font-family: monospace;
+}
+/*# first> p{
+    color: green;
+}
+*/
+#first,
+#second {
+    color: blue;
+}
+
+.purple {
+    color: purple;
+    font-family: monospace;
+}
+
+.highlight {
+    background-color: pink;
+    font-weight: bolder;
+    font-style: italic;
+}
